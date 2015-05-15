@@ -2,7 +2,7 @@
 
 Verificar suas habilidades em conceber cenários de testes e em programação, necessárias para automatização dos testes.
 
-Para isso você deverá conceber cenários para duas funcionalidades do Whatsapp e resolver ou o exercício 09 ou o 18 do site [CodeKata](http://www.codekata.com)
+Para isso você deverá conceber cenários para duas funcionalidades do Whatsapp e resolver o exercício 09 ou o 18 do site [CodeKata](http://www.codekata.com)
 
 ### Deve conter ###
 
