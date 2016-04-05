@@ -69,6 +69,8 @@ class TestPrice < Test::Unit::TestCase
 end
 ```
 
-There are lots of ways of implementing this kind of algorithm; if you have time, experiment with several. Objectives of the Kata
+There are lots of ways of implementing this kind of algorithm; if you have time, experiment with several.
+
+## Objectives of the Kata
 
 To some extent, this is just a fun little problem. But underneath the covers, it’s a stealth exercise in decoupling. The challenge description doesn’t mention the format of the pricing rules. How can these be specified in such a way that the checkout doesn’t know about particular items and their pricing strategies? How can we make the design flexible enough so that we can add new styles of pricing rule in the future?
