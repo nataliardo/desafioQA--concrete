@@ -8,7 +8,7 @@ Para isso você deverá conceber cenários para duas funcionalidades do Whatsapp
 
 * Especificação de duas funcionalidades do Whatsapp (não importa se o app é Android, iOS ou Windows Phone) no formato que lhe for mais conveniente
 * Cada especificação deve conter ao menos um cenário de teste
-* Resposta do exercício 09 ou 18 do site [CodeKata](http://www.codekata.com) na linguagem de programação que lhe for mais conveniente
+* Resposta do exercício 09 do site [CodeKata](http://www.codekata.com), ou [aqui](Kata09.md), na linguagem de programação que lhe for mais conveniente
 
 ### Ganha mais pontos se contiver ###
 
