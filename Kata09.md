@@ -1,8 +1,7 @@
-# Checkout Kata
+# Kata09: Back to the Checkout
+
 http://codekata.com/kata/kata09-back-to-the-checkout/
 
-
-Kata09: Back to the Checkout
 
 Back to the supermarket. This week, we’ll implement the code for a checkout system that handles pricing schemes such as “apples cost 50 cents, three apples cost $1.30.”
 
