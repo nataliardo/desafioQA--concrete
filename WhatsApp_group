@@ -1,0 +1,30 @@
++# language: pt
++
++Funcionalidade: Criar grupo de 5 pessoas no WhatsApp
++
++Como usuário do WhatsApp
++Eu quero criar um grupo de 5 contatos
++Para conversar de forma simultânea com os contatos adicionados neste grupo
++
++
++  Cenario: Criar um grupo com 5 contatos
++    Dado que eu estou com o Whatsapp aberto
++    Quando eu clico no menu "Novo Grupo"
++    E preencho um nome para esse grupo "Teste Natalia"
++    E seleciono os 5 contatos
++    Então o grupo é exibido com os 5 contatos que selecionei
++
++  Cenario: Incluir um contato em um grupo já existente
++    Dado que já exista o grupo "Teste Natalia"
++    Quando eu entro na seção de detalhes desse grupo
++    E clico no menu “Adicionar participante”
++    E clico em cima do participante "João"
++    E clico em "Adicionar participante"
++    Então “João" é adicionada no grupo "Teste Natália"
++
++  Cenario: Incluir um contato já existente em um grupo
++    Dado que já exista o grupo "Teste Natalia"
++    Quando eu entro na seção de detalhes desse grupo
++    E clico no menu “Adicionar participante”
++    E digito o nome do participante "João"
++    Então “João" aparece com a mensagem “Já adicionado ao grupo”
