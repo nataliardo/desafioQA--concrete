@@ -1,0 +1,16 @@
++# language: pt
++
++Funcionalidade: Enviar mais de 10 fotos ao mesmo tempo para um contato
++
++Como usuário do WhatsApp
++Eu quero enviar mais de 10 fotos para um determinado contato
++Para compartilhar algumas fotos
++
++
++  Cenario: Enviar mais de 10 fotos ao mesmo tempo para um determinado contato
++    Dado que eu estou com o Whatsapp aberto
++    Quando eu clico no menu "ANEXAR FOTO"
++    E acesso a galeria do celular
++    E seleciono 11 fotos
++    Então aparece a mensagem “Não é possível compartilhar mais de 10 ítens”
++
